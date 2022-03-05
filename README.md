@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaborWondimu
-- 👀 I’m interested in developing new projects and solving real world problems through coding.
-- 🌱 I’m currently learning to become a FULL-STACK Software Engineer.
+- 👀 I’m passionate about creating new projectsin c# and solving real world problems through coding.
+- 🌱 I’m a FULL-STACK Software Engineer.
 - 💞️ I’m looking to collaborate on real world projects as well as creating fun games!
 - 📫 How to reach me via email at :csmajortabor@gmail.com
 
